@@ -10,7 +10,5 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         Log.v("Test is",">>>>Branch1");
-        Log.v("Test is",">>>>Branch2");
-        Log.v("Test is",">>>>Branch3");
     }
 }

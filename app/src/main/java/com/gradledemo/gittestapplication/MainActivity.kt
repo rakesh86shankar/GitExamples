@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        Log.v("Test is", ">>>>Branch3");
+        Log.v("Test is", ">>>>Main Branch");
     }
 
     public fun addBranch4()

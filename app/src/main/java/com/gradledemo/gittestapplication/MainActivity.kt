@@ -17,6 +17,7 @@ class MainActivity : AppCompatActivity() {
     {
         val i = 205;
         val testCondition = true;
+        val newCondition = false
         Log.v("New Branch Addedt", "Branch4");
         Log.v("New Branch Addedt from Branch2", "Branch4");
     }

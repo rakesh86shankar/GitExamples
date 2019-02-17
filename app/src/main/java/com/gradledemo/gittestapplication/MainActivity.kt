@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
     public fun addBranch4()
     {
         val i = 205;
-        val i1 = 110;
+        val i1 = 410;
         val testCondition = true;
         Log.v("New Branch Addedt", "Branch4");
         Log.v("New Branch Addedt from Branch2", "Branch4");

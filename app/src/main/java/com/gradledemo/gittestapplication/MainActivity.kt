@@ -15,9 +15,9 @@ class MainActivity : AppCompatActivity() {
 
     public fun addBranch4()
     {
-        val i = 205;
+        val i = 245;
         val testcase = false;
-        val i1 = 410;
+        val i1 = 510;
         val testCondition = true;
         val newCondition = false
         Log.v("New Branch Addedt", "Branch4");
